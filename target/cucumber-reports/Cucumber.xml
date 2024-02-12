@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="86.778">
+    <testcase classname="Test feature registration" name="Xcite Registration" time="86.636">
+        <system-out><![CDATA[Given I navigate to homepage................................................passed
+And I click on Create an account............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
